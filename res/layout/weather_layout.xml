@@ -103,7 +103,7 @@
 	            android:layout_gravity="center_vertical"
 	            android:layout_marginLeft="10dp"
 	            android:layout_marginRight="10dp"
-	            android:text="~"
+	            android:text="@string/to"
 	            android:textColor="#FFF"
 	            android:textSize="40sp"
 	            />
